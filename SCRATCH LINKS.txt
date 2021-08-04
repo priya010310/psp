@@ -1,0 +1,15 @@
+1) PROGRAM FOR TRIANGLE : https://scratch.mit.edu/projects/521638160
+2) PROGRAM FOR SQUARE : https://scratch.mit.edu/projects/521625702
+3) PROGRAM FOR CIRCLE : https://scratch.mit.edu/projects/521625432
+4) PROGRAM FOR PENTAGON : https://scratch.mit.edu/projects/521636894
+5) Arithmetic operator :
+https://scratch.mit.edu/projects/524101482
+6) MEMORY GAME :
+https://scratch.mit.edu/projects/528637086
+7)  Design a Python script to sort numbers specified in a text file using lists.(Implement the same using Scratch programming and Raptor tool) :
+https://scratch.mit.edu/projects/554778815
+8)GRADING : https://scratch.mit.edu/projects/521930288
+9) AREA OF SHAPES :
+9a) AREA OF CIRCLE : https://scratch.mit.edu/projects/521852872
+9b) AREA OF CONE :https://scratch.mit.edu/projects/521858689
+9c) AREA OF CYLINDER :https://scratch.mit.edu/projects/521949310
